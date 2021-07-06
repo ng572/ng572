@@ -30,8 +30,8 @@ Here’s some others that may tell you more about me:
 
 Repository				|Description
 --					|--
+[scikit-learn-quickstart](../../../scikit-learn-quickstart)|
 [time-series-analysis-climate-data](../../../time-series-analysis-climate-data)	|Time series analysis using R
 [MySQL-demo](../../../MySQL-demo)|
 [keras-quickstart](../../../keras-quickstart)|
 [tensorflow-quickstart](../../../tensorflow-quickstart)|
-[scikit-learn-quickstart](../../../scikit-learn-quickstart)|
