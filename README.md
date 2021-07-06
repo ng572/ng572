@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Here’s some of the repositories that may interest you:
+Here’s some of my repositories that may interest you:
 Repository				|Description
 --					|--
 predicting-bike-sharing-pattern		|Use of basic feed-forward network to predict bike use activity
